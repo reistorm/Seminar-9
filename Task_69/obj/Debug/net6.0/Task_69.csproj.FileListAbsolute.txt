@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_69\bin\Debug\net6.0\Task_69.exe
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_69\bin\Debug\net6.0\Task_69.deps.json
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_69\bin\Debug\net6.0\Task_69.runtimeconfig.json
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_69\bin\Debug\net6.0\Task_69.dll
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_69\bin\Debug\net6.0\Task_69.pdb
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_69\obj\Debug\net6.0\Task_69.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_69\obj\Debug\net6.0\Task_69.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_69\obj\Debug\net6.0\Task_69.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_69\obj\Debug\net6.0\Task_69.AssemblyInfo.cs
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_69\obj\Debug\net6.0\Task_69.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_69\obj\Debug\net6.0\Task_69.dll
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_69\obj\Debug\net6.0\refint\Task_69.dll
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_69\obj\Debug\net6.0\Task_69.pdb
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_69\obj\Debug\net6.0\Task_69.genruntimeconfig.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_69\obj\Debug\net6.0\ref\Task_69.dll
