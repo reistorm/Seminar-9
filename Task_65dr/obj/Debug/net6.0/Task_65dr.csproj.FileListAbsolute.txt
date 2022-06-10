@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_65dr\bin\Debug\net6.0\Task_65dr.exe
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_65dr\bin\Debug\net6.0\Task_65dr.deps.json
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_65dr\bin\Debug\net6.0\Task_65dr.runtimeconfig.json
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_65dr\bin\Debug\net6.0\Task_65dr.dll
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_65dr\bin\Debug\net6.0\Task_65dr.pdb
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_65dr\obj\Debug\net6.0\Task_65dr.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_65dr\obj\Debug\net6.0\Task_65dr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_65dr\obj\Debug\net6.0\Task_65dr.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_65dr\obj\Debug\net6.0\Task_65dr.AssemblyInfo.cs
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_65dr\obj\Debug\net6.0\Task_65dr.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_65dr\obj\Debug\net6.0\Task_65dr.dll
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_65dr\obj\Debug\net6.0\refint\Task_65dr.dll
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_65dr\obj\Debug\net6.0\Task_65dr.pdb
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_65dr\obj\Debug\net6.0\Task_65dr.genruntimeconfig.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Task_65dr\obj\Debug\net6.0\ref\Task_65dr.dll
