@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Zametki_prep\obj\Debug\net6.0\Zametki_prep.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Zametki_prep\obj\Debug\net6.0\Zametki_prep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Zametki_prep\obj\Debug\net6.0\Zametki_prep.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Zametki_prep\obj\Debug\net6.0\Zametki_prep.AssemblyInfo.cs
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Zametki_prep\obj\Debug\net6.0\Zametki_prep.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Zametki_prep\bin\Debug\net6.0\Zametki_prep.exe
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Zametki_prep\bin\Debug\net6.0\Zametki_prep.deps.json
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Zametki_prep\bin\Debug\net6.0\Zametki_prep.runtimeconfig.json
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Zametki_prep\bin\Debug\net6.0\Zametki_prep.dll
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Zametki_prep\bin\Debug\net6.0\Zametki_prep.pdb
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Zametki_prep\obj\Debug\net6.0\Zametki_prep.dll
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Zametki_prep\obj\Debug\net6.0\refint\Zametki_prep.dll
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Zametki_prep\obj\Debug\net6.0\Zametki_prep.pdb
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Zametki_prep\obj\Debug\net6.0\Zametki_prep.genruntimeconfig.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 9\S9\Zametki_prep\obj\Debug\net6.0\ref\Zametki_prep.dll
